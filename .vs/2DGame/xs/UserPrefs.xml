@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{8A3A7B60-0E04-E1C4-071B-6792558F2011}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Score.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Spawner.cs" Line="21" Column="91" />
+      <File FileName="Assets/Scripts/GameMechanic.cs" />
+      <File FileName="Assets/Scripts/ShotDown.cs" />
+      <File FileName="Assets/Scripts/Score.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2DGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Score.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cbd87c79-9503-402e-9406-db19906474fc" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
